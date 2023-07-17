@@ -1,3 +1,7 @@
+List display no longer working, search functionality and most popular searches still are. Investigating why it's no longer working after a year of flawless operation now and will update the page when a solution is found. I suspect something has changed with the Movie Database API, it appears only the IMDB is working at the moment 
+
+Richard Murphy 7/18/23
+
 
 ## User Story
 
