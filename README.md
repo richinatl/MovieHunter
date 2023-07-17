@@ -1,11 +1,3 @@
-# MovieHunter
-
-**After almost a year of being up and running with no issues this app has suddenly stopped working because of an issue with Heroku. I have not had time to investigate as of yet to make certain, but I believe it has to do with Heroku suspending it's free student hosting program, all of the apps I had made using Heroku all stopped working at the same time and all had been fine for quite a long time. I want to apologize to any potential employer who wanted to see any of these projects in operation. If you look at the code you'll see everything is done properly and efficiently.** 
-
-Richard Murphy 12/12/2022
-
----
-
 
 ## User Story
 
