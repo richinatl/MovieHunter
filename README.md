@@ -1,6 +1,19 @@
-List display no longer working, search functionality and most popular searches still are. Investigating why it's no longer working after a year of flawless operation now and will update the page when a solution is found. I suspect something has changed with the Movie Database API, it appears only the IMDB is working at the moment 
+The list display is no longer working, search functionality and most popular searches still are. Investigating as to why it's no longer working after a year of flawless operation now and will update the page when a solution is found. I suspect something has changed with the APIs.
 
 Richard Murphy 7/18/23
+
+---
+
+**Update**
+
+As suspected, on of the APIs has changed. They have entered into an agreement with AWS for their API. The movie db API still works so there's still search functionality and you're still able to get the most popualr recent 
+releases but the IMDB lists are no longer functional. For any potential employers you'll have to see the screenshots to see the original intended functionality. Right now I am focused on learning C# and other 
+technologies and my code has advanced quite a bit since this effort anyway
+
+![MovieHunterAPI](https://github.com/richinatl/MovieHunter/assets/95508564/59e97612-dc90-433f-81be-a8631a539a24)
+
+---
+
 
 
 ## User Story
